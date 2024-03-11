@@ -17,6 +17,9 @@ To use the project you need to have Python version above or equal to 3.9.6 insta
 3. Run the main python file
    `python functions.py`
 
+# JPEG Compression Workflow
+The workflow for the JPEG Compression process is as follows
+
 ## Convert image to YCrCb format
 The RGB color space is converted to YCbCr to separate luminance (Y) and chrominance (Cb and Cr) components. This conversion exploits the human eye's higher sensitivity to brightness (luminance) compared to color information.
 
