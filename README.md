@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
-# [JPEG Compression Demostration](https://github.com/PRO-GUNE/JPEGCompression.git)
+View [GitHub Repository](https://github.com/PRO-GUNE/JPEGCompression.git)
+
+# JPEG Compression Demostration
 This repository demonstrates, using an example numpy array, how the JPEG Compression process works.
 
 # How to Use the Project
