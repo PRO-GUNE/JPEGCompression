@@ -1,6 +1,19 @@
-# JPEG Compression
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+# [JPEG Compression Demostration](https://github.com/PRO-GUNE/JPEGCompression.git)
 This repository demonstrates, using an example numpy array, how the JPEG Compression process works.
-The workflow involves the following steps
+
+# How to Use the Project
+To use the project you need to have Python version above or equal to 3.9.6 installed
+
+1. Clone the project
+   `git clone <repository url>`
+2. Open the cloned project folder in the terminal. Move to the `src` directory and create a virtual environment and install the required dependencies
+   `cd ./src
+    python -m venv .
+    pip install -r requirements.txt`
+3. Run the main python file
+   `python functions.py`
 
 ## Convert image to YCrCb format
 The RGB color space is converted to YCbCr to separate luminance (Y) and chrominance (Cb and Cr) components. This conversion exploits the human eye's higher sensitivity to brightness (luminance) compared to color information.
