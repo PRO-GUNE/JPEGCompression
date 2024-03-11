@@ -10,9 +10,8 @@ To use the project you need to have Python version above or equal to 3.9.6 insta
 
 1. Clone the project
    `git clone <repository url>`
-2. Open the cloned project folder in the terminal. Move to the `src` directory and create a virtual environment and install the required dependencies
-   `cd ./src
-    python -m venv .
+2. Open the cloned project folder in the terminal. Create a virtual environment and install the required dependencies
+   `python -m venv .
     pip install -r requirements.txt`
 3. Run the main python file
    `python functions.py`
